@@ -14,3 +14,7 @@ avvio la riproduzione del titolo
 
 SE la riproduzione è conclusa
     - attiva la scritta "Stai ancora guardando?"
+    - torna a "SE so cosa guardare"\
+FINE SE
+
+FINE
