@@ -1,0 +1,16 @@
+Cosa guardare su Netflix
+
+START
+accendere il dispositivo
+aprire Netflix
+fai il log in
+SE so cosa guardare
+    - cerco il titolo da guardare
+ALTRIMNETI  
+    - cerco nei suggeriti 
+FINE SE
+avvio la riproduzione del titolo
+
+
+SE la riproduzione è conclusa
+    - attiva la scritta "Stai ancora guardando?"
